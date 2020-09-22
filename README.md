@@ -1,6 +1,6 @@
 # Building a VM translator 
 
-![VM Translator Diagram](vm_translator.png)
+![VM Translator Diagram](vm_translator.PNG)
 #### Credit to https://www.nand2tetris.org/course
 
 ## Purpose 
